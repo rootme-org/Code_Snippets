@@ -7,7 +7,7 @@ Welcome to the **Code_Snippets** project! This GitHub repository celebrates our 
 | **Snippet Title** | **Author** | **Snippet Link**       | **Writeup Link**       |
 |-------------------|------------|-------------------------|-------------------------|
 | **SQL Like injection**     | [Elweth](https://www.root-me.org/Elweth)   | [Source](sqli/snippet.py)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_01/)    |
-| **Memory Exhaustion**     | [Ethnical](https://www.root-me.org/Ethnical-41840)   | [Source](memory_exhaustion/snippet.go)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_02//)    |
-| *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
+| **Memory Exhaustion**     | [Ethnical](https://www.root-me.org/Ethnical-41840)   | [Source](memory_exhaustion/snippet.go)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_02/)    |
+| *Cross-Function Reetrancy*     | [K.L.M](https://www.root-me.org/K-L-M)   | [Source](cross_function_reentrancy/snippet.vy)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_03/)    |
 | *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
 | *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
