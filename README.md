@@ -9,5 +9,5 @@ Welcome to the **Code_Snippets** project! This GitHub repository celebrates our 
 | **SQL Like injection**     | [Elweth](https://www.root-me.org/Elweth)   | [Source](sqli/snippet.py)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_01/)    |
 | **Memory Exhaustion**     | [Ethnical](https://www.root-me.org/Ethnical-41840)   | [Source](memory_exhaustion/snippet.go)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_02/)    |
 | **Cross-Function-Reentrancy**     | [K.L.M](https://www.root-me.org/K-L-M)   | [Source](cross_function_reentrancy/snippet.vy)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_03/)    |
-| *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
+| **SSRF & Hop-by-Hop Header Injection**      | [baguette](https://www.root-me.org/baguette)   | [Source](ssrf_hbh/)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_04/)    |
 | *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
