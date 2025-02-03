@@ -10,4 +10,4 @@ Welcome to the **Code_Snippets** project! This GitHub repository celebrates our 
 | **Memory Exhaustion**     | [Ethnical](https://www.root-me.org/Ethnical-41840)   | [Source](memory_exhaustion/snippet.go)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_02/)    |
 | **Cross-Function-Reentrancy**     | [K.L.M](https://www.root-me.org/K-L-M)   | [Source](cross_function_reentrancy/snippet.vy)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_03/)    |
 | **SSRF & Hop-by-Hop Header Injection**      | [baguette](https://www.root-me.org/baguette)   | [Source](ssrf_hbh/)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_04/)    |
-| *Incoming*     | ???   | [Incoming](#)    | [Writeup](#)    |
+| **Integer Overflow & Stack Overflow**     | [baguette](https://www.root-me.org/baguette)   | [Source](integer_stack_buffer_overflow/main.c)    | [Writeup](https://blog.root-me.org/posts/writeup_snippet_05/)    |
